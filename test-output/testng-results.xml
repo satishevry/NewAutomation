@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31423" started-at="2017-02-04T03:55:09Z" finished-at="2017-02-04T03:55:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31423" started-at="2017-02-04T03:55:09Z" finished-at="2017-02-04T03:55:40Z">
+      <class name="testcases.VerifyAddPatient">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testcases.VerifyAddPatient@46d56d67]" name="setUP" is-config="true" duration-ms="15709" started-at="2017-02-04T09:25:09Z" finished-at="2017-02-04T09:25:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="testLoginPage()[pri:0, instance:testcases.VerifyAddPatient@46d56d67]" name="testLoginPage" duration-ms="15068" started-at="2017-02-04T09:25:24Z" finished-at="2017-02-04T09:25:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.VerifyAddPatient@46d56d67]" name="tearDown" is-config="true" duration-ms="610" started-at="2017-02-04T09:25:39Z" finished-at="2017-02-04T09:25:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.VerifyAddPatient -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
